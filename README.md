@@ -15,32 +15,25 @@ TRecon is a versatile command-line tool that combines Google Dorking, Nmap scann
 
    ```bash
    git clone https://github.com/your-username/TRecon.git
+   cd TRecon
 
-    Change directory:
+2. Install the dependencies:
 
-    bash
+   ```bash
+   pip install -r requirements.txt
 
-cd TRecon
+3. Run the script:
 
-Install the dependencies:
+   ```bash
+   python main.py
 
-bash
+Follow the prompts and select the desired option to perform reconnaissance or use Google Dorking.
 
-pip install -r requirements.txt
+For Nmap scanning, provide the target IP address or range and select the scan type.
 
-Run the tool:
+For brute force directory enumeration, provide the target URL and select the wordlist or specify a custom dictionary.
 
-bash
-
-    python trecon.py
-
-    Follow the prompts and select the desired option to perform reconnaissance or use Google Dorking.
-
-    For Nmap scanning, provide the target IP address or range and select the scan type.
-
-    For brute force directory enumeration, provide the target URL and select the wordlist or specify a custom dictionary.
-
-    Explore the results and analyze the gathered information.
+Explore the results and analyze the gathered information.
 
 ## Dependencies
 
