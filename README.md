@@ -42,6 +42,9 @@ TRecon is a versatile command-line tool that combines Google Dorking, Nmap scann
     beautifulsoup4 module
     nmap module
 
+## Supported Operating Systems
+- Debian-based Linux distributions (e.g., Ubuntu)
+
 ## Contributions
 
 Contributions to this project are welcome. Feel free to open issues and submit pull requests to contribute to the improvement of this tool.
