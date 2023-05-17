@@ -15,6 +15,8 @@ TRecon is a versatile command-line tool that combines Google Dorking, Nmap scann
 
    ```bash
    git clone https://github.com/thomasngu0423/TRecon.git
+   ```
+   ```bash
    cd TRecon
 
 2. Install the dependencies:
